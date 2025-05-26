@@ -1,13 +1,31 @@
-# 👋 Hi, I'm Dina Ikirezi!
+# Hi there 👋 I'm Dina Ikirezi!
 
-## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+🎓 Computer Science student  
+💻 Software Developer | IoT Enthusiast | React Lover   
+🛠 Currently working on: **IkireziTrots** – a ride & drive hailing web app  
+🌍 Based in Kigali, Rwanda
 
-## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+---
 
-## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
-- Backend basics with Node.js
+## 👩‍💻 Tech Stack
+
+Languages: Java | JavaScript | HTML | CSS  
+Frontend: React | Figma (Design to Code)  
+Backend: Node.js (in progress...)  
+Tools: VS Code | Git & GitHub | Netlify | npm | Webpack 
+Learning: APIs | Tailwind CSS | Firebase | MongoDB  
+
+---
+
+## 🚀 Projects & Stuff
+
+🛺 IkireziTrots: Ride & Drive web app (React + Maps API)
+🛒 eCommerce site with blog section
+🌐 Portfolio site – from Figma to code
+🧠 Upcoming: IoT Smart Home Dashboard 👀
+Check out my pinned repos for more cool things I’m building!
+
+---
+
+"Code what you love, and love what you build."
+– Me (and probably someone else too 😄)
